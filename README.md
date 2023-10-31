@@ -64,7 +64,7 @@ Take a screenshot of Visual Studio while the program is paused at the breakpoint
   - The assembly source code is visible.
   - The general purpose CPU registers are visible.
 
-![Example Screenshot](example-screenshot.png)
+![Example Screenshot](./docs/example-screenshot.png)
 
 Save your screenshot as `screenshot.png`. There is a placeholder file in this repository with the same name; replace this file with your screenshot.
 
