@@ -57,7 +57,7 @@ You can open other debug windows and arrange them. The following debug windows a
 - Disassembly
 - Autos
 
-For this assignment, make sure both the assembly source code and the registers debug window are visible. The general purpose CPU registers (RAX, RBX, etc.) should be visible. If not, right-click within the registers debug window and check the `CPU` option. Any other options can be enabled at your preference.
+For this assignment, make sure both the assembly source code and the registers debug window are visible. The general purpose CPU registers (RAX, RBX, etc.) must be visible. If not, right-click within the registers debug window and check the `CPU` option. Any other options can be enabled at your preference.
 
 Take a screenshot of Visual Studio while the program is paused at the breakpoint with the registers window in view. One way to capture the screenshot is to use the Windows Snipping Tool (shortcut `Windows` + `Shift` + `S`). An example screenshot is provided below. You do not have to match the example screenshot exactly, but the following requirements must be met:
   - The program is paused at a breakpoint at the line `xor rcx, rcx`.
