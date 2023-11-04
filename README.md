@@ -9,7 +9,7 @@ The purpose of this assignment is to get a development environment up and runnin
 
 ## Instructions
 
-A Visual Studio solution file (`assignment.sln`) is provided. Open the solution file with Visual Studio. Edit the assembly source file (`assignment.asm`) and paste the following assembly code into the file:
+A Visual Studio solution file (`assignment-first-program.sln`) is provided. Open the solution file with Visual Studio. Edit the assembly source file (`assignment.asm`) and paste the following assembly code into the file:
 
 ```
 ; << Replace this first line with your first and last name >>
