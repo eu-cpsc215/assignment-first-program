@@ -72,14 +72,14 @@ Run the program to completion and verify the program does not crash.
 
 ## Submission
 
-Commit and push the changes to your `main` branch in GitHub.
+Submit two files for grading:
+- `assignment.asm`
+- `screenshot.png`
 
 The following criteria must be satisfied:
 - `assignment.asm` must be updated to include the assembly code provided above.
 - `assignment.asm` must have a comment at the top of the file with your first and last name.
-- `screenshot.png` must be replaced with your own screenshot as described above.
+- `screenshot.png` must be replaced with your own screenshot as described above:
   - The program is paused at a breakpoint at the line `xor rcx, rcx`.
   - The assembly source code is visible.
   - The general purpose CPU registers are visible.
-
-Note: there is a `.gitignore` file configured to ignore certain files, such as the binary and intermediate output files from your project (i.e., the `bin` or `obj` directories). Do not modify this. Best practice is to exclude generated binary output from version control.
